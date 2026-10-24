@@ -1,0 +1,17 @@
+# Core Interactive Web UI
+streamlit>=1.30.0
+
+# Multi-Agent Framework
+agno>=2.0.0
+
+# LLM Model Providers
+openai>=1.0.0
+google-genai>=0.3.0
+google-generativeai>=0.8.0
+
+# Web Search & Intelligence Tools
+exa-py>=2.0.0
+
+# Configuration & Data Validation
+python-dotenv>=1.0.0
+pydantic>=2.0.0

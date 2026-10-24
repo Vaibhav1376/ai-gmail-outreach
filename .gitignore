@@ -1,0 +1,42 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments & Virtual Envs
+.env
+.env.local
+.env.*
+!.env.example
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Runtime Storage, Logs & Checkpoints
+tmp/*
+!tmp/.gitkeep
+checkpoints/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.jsonl
+
+# Scratch & Backup Files
+app.txt
+app_2.txt
+error_pipeline.txt
+
+# Editor & OS Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
